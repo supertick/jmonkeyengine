@@ -29,8 +29,8 @@
  * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package com.jme3.collision;
+package com.jme3.environment;
 
 /**
- * (non-physics) collision detection
+ * generate lighting environments for physically-based rendering (PBR)
  */

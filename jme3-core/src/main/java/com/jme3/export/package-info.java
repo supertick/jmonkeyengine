@@ -29,8 +29,8 @@
  * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package com.jme3.collision;
+package com.jme3.export;
 
 /**
- * (non-physics) collision detection
+ * load and save assets in jMonkeyEngine's native formats, including J3O
  */
